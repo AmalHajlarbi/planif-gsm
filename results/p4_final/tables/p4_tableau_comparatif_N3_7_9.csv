@@ -1,0 +1,4 @@
+﻿Motif (N);R (km);D (km);SIR (dB);Canaux / cellule;Abonnes / cellule;Utilisateurs actifs / cellule;SIR >= SIR_min
+3;9.046;27.137;8.92;41.33;4252;425;non
+7;9.046;41.452;15.36;17.71;4252;425;non
+9;9.046;47.002;17.27;13.78;4252;425;oui

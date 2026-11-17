@@ -1,0 +1,10 @@
+{
+  "zone_area_km2": 5000,
+  "environments": {
+    "urbain": 3.5,
+    "sub-urbain": 3.0,
+    "rural": 2.5
+  },
+  "densities_ab_km2": [0.5, 1, 2, 5, 10, 20, 50, 100],
+  "patterns": [3, 7, 9]
+}

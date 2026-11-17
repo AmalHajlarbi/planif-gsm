@@ -1,0 +1,14 @@
+{
+  "P_BTS_dBm": 43.0,
+  "P_MS_dBm": 23.0,
+  "P_sens_dBm": -100.0,
+  "N_f": 124,
+  "f_port_MHz": 900.0,
+  "N": 7,
+  "SIR_min_dB": 17.0,
+  "Dst_ab": 20.0,
+  "T_act": 0.1,
+  "Pathloss_exp": 3.5,
+  "d0_km": 1.0,
+  "PL_d0_dB": null
+}

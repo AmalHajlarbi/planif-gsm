@@ -1,0 +1,16 @@
+{
+  "N": 7,
+  "P_TX_dBm": 23.0,
+  "G_ant_dB": 2.0,
+  "MAPL_dB": 125.0,
+  "PL_d0_dB": 91.5248501887865,
+  "R_km": 9.045505702355134,
+  "D_km": 41.45171458019709,
+  "D_sur_R": 4.58257569495584,
+  "SIR_dB": 15.357325154007151,
+  "SIR_ok": false,
+  "Canaux_par_cellule": 17.714285714285715,
+  "Surface_cellule_km2": 212.57764422501498,
+  "Abonnes_cellule": 4251.552884500299,
+  "Utilisateurs_actifs_cellule": 425.15528845002996
+}

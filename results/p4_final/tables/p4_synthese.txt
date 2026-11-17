@@ -1,0 +1,14 @@
+=== Synthese du plan cellulaire GSM ===
+Motif choisi : N = 7 | strategie d'allocation : entrelacee
+P_TX = 23.0 dBm | MAPL = 125.00 dB | PL(d0) = 91.52 dB
+R = 9.046 km | D = 41.452 km (D/R = 4.583)
+SIR = 15.36 dB (seuil 17 dB) -> NON RESPECTE
+Canaux / cellule = 17.71 | Surface = 212.58 km2
+Abonnes / cellule = 4252 | Actifs / cellule = 425
+Plan : 7x7 = 49 cellules | D mesure (min co-canal) = 41.452 km
+Allocation : tailles des groupes [18, 18, 18, 18, 18, 17, 17] | paires de canaux consecutifs dans un meme groupe : 0
+Densite maximale supportee : 0.833 ab./km2 (params.json : 20)
+Verifications : OK
+Avertissements :
+ - SIR = 15.36 dB < SIR_min = 17 dB pour N = 7. Motif minimal valide : N = 9.
+ - Capacite insuffisante : 425 utilisateurs actifs par cellule pour 17.7 canaux (densite maximale supportee : 0.833 ab./km2).

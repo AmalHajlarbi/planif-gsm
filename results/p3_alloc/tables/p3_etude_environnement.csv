@@ -1,0 +1,10 @@
+﻿Environnement;Pathloss_exp;N;R_km;Surface_cellule_km2;Sites_necessaires;D_km;SIR_dB;SIR_ok;N_min_valide
+urbain;3.5;3;9.046;212.58;24;27.137;8.92;False;9
+urbain;3.5;7;9.046;212.58;24;41.452;15.36;False;9
+urbain;3.5;9;9.046;212.58;24;47.002;17.27;True;9
+sub-urbain;3.0;3;13.057;442.92;12;39.171;6.53;False;16
+sub-urbain;3.0;7;13.057;442.92;12;59.834;12.05;False;16
+sub-urbain;3.0;9;13.057;442.92;12;67.845;13.69;False;16
+rural;2.5;3;21.828;1237.84;5;65.483;4.15;False;36
+rural;2.5;7;21.828;1237.84;5;100.027;8.75;False;36
+rural;2.5;9;21.828;1237.84;5;113.42;10.11;False;36

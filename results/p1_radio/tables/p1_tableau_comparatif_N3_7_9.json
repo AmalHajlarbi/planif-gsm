@@ -1,0 +1,50 @@
+[
+  {
+    "N": 3,
+    "P_TX_dBm": 23.0,
+    "G_ant_dB": 2.0,
+    "MAPL_dB": 125.0,
+    "PL_d0_dB": 91.5248501887865,
+    "R_km": 9.045505702355134,
+    "D_km": 27.1365171070654,
+    "D_sur_R": 3.0,
+    "SIR_dB": 8.917731411351747,
+    "SIR_ok": false,
+    "Canaux_par_cellule": 41.333333333333336,
+    "Surface_cellule_km2": 212.57764422501498,
+    "Abonnes_cellule": 4251.552884500299,
+    "Utilisateurs_actifs_cellule": 425.15528845002996
+  },
+  {
+    "N": 7,
+    "P_TX_dBm": 23.0,
+    "G_ant_dB": 2.0,
+    "MAPL_dB": 125.0,
+    "PL_d0_dB": 91.5248501887865,
+    "R_km": 9.045505702355134,
+    "D_km": 41.45171458019709,
+    "D_sur_R": 4.58257569495584,
+    "SIR_dB": 15.357325154007151,
+    "SIR_ok": false,
+    "Canaux_par_cellule": 17.714285714285715,
+    "Surface_cellule_km2": 212.57764422501498,
+    "Abonnes_cellule": 4251.552884500299,
+    "Utilisateurs_actifs_cellule": 425.15528845002996
+  },
+  {
+    "N": 9,
+    "P_TX_dBm": 23.0,
+    "G_ant_dB": 2.0,
+    "MAPL_dB": 125.0,
+    "PL_d0_dB": 91.5248501887865,
+    "R_km": 9.045505702355134,
+    "D_km": 47.001826369899284,
+    "D_sur_R": 5.196152422706632,
+    "SIR_dB": 17.26735336894584,
+    "SIR_ok": true,
+    "Canaux_par_cellule": 13.777777777777779,
+    "Surface_cellule_km2": 212.57764422501498,
+    "Abonnes_cellule": 4251.552884500299,
+    "Utilisateurs_actifs_cellule": 425.15528845002996
+  }
+]
